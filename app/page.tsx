@@ -47,13 +47,11 @@ function AboutMe() {
             <div className="flex text-slate-100 text-4xl">
               <span>Hey</span>
               <div className="w-14 h-10 animate-rotate">👋</div>
-              <span>I&apos;m Jayden Koh!</span>
+              <span>I&apos;m Airway PATIENT!</span>
             </div>
-            I&apos;m an undergraduate student at Texas A&M University studying
-            Computer Engineering. I am passionate about the intersection of
-            cybersecurity, software, and hardware.
+            I&apos;ORAL HEALTH.
             <br />
-            <br />I research hardware security at the{" "}
+            <br />I person collection research{" "}
             <span>
               <a
                 href="https://seth.engr.tamu.edu/"
@@ -62,7 +60,7 @@ function AboutMe() {
                 SETH Lab
               </a>
             </span>{" "}
-            focusing on Zero-Knowledge Proof Acceleration and Hardware Fuzzing.
+            WORK IN PROGRESS
             I also work at{" "}
             <span>
               <a
