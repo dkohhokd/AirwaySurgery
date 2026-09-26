@@ -1,5 +1,5 @@
 interface site{
-  
+  logo: string, 
   title: string,
   logoTitle: string,
   author: string,
